@@ -1,2 +1,2 @@
 # ToM-Tutorial
-The related work is used to cite the tutorial. This tutorial is 
+The related work is used to cite the tutorial. This tutorial is explaining
