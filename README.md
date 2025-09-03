@@ -1,3 +1,3 @@
 # ToM-Tutorial
 The related work is used to cite the tutorial. This tutorial is explaining Theory of mind in AI devices. This tutorial we be presented in the BEA conference.
-BEA is also a part of 
+BEA is also a part of ACL.
